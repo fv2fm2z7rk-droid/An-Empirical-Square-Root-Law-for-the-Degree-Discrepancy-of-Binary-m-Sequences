@@ -1,1 +1,0 @@
-# An-Empirical-Square-Root-Law-for-the-Degree-Discrepancy-of-Binary-m-Sequences
