@@ -3,7 +3,7 @@
 Code and data accompanying the note
 *An Empirical Square-Root Law for the Degree Discrepancy of Binary m-Sequences*.
 
-Preprint: The PDF is also from the author, Joonas Pääkkönen, jpa@du.se., Joonas Pääkkönen, `jpa@du.se`.
+Preprint: The PDF is also from the author, Joonas Pääkkönen, jpa@du.se.
 
 | File | Role |
 |---|---|
