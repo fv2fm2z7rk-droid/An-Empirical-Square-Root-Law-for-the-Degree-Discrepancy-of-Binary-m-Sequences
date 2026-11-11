@@ -3,7 +3,7 @@
 Code and data accompanying the note
 *An Empirical Square-Root Law for the Degree Discrepancy of Binary m-Sequences*.
 
-The article has been submitted to *Uniform Distribution Theory*. The PDF is available from the author, Joonas Pääkkönen, `jpa@du.se`.
+Preprint: The PDF is also from the author, Joonas Pääkkönen, jpa@du.se., Joonas Pääkkönen, `jpa@du.se`.
 
 | File | Role |
 |---|---|
